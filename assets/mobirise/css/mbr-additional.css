@@ -1631,24 +1631,34 @@ a {
 }
 .cid-sekCYx4ksy .counter-container ul li {
   margin-bottom: 1rem;
+  list-style: none;
   position: relative;
+  padding-left: 1rem;
 }
 .cid-sekCYx4ksy .counter-container ul li:before {
   position: absolute;
-  left: -1.6rem;
-  content: "\2022";
+  left: -40px;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #2299aa;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+  background: none;
+  border: 1px solid #2299aa;
   color: #2299aa;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-  line-height: 1.2;
+  content: "✓";
 }
 .cid-sekCYx4ksy .mbr-section-title {
   text-align: center;
   color: #2299aa;
 }
 .cid-sekCYx4ksy .mbr-text {
-  color: #232323;
+  color: #353535;
 }
 .cid-seqvLNA52G {
   padding-top: 60px;
@@ -1732,6 +1742,54 @@ a {
 .cid-seqvLNA52G .progressbar-title p,
 .cid-seqvLNA52G .progress_value {
   text-align: left;
+}
+.cid-sgjY17nzvT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sgjY17nzvT .testimonials-container {
+  margin: 0 auto;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item .user {
+  background: #efefef;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-sgjY17nzvT .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-sgjY17nzvT .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-sgjY17nzvT H2 {
+  color: #2299aa;
+}
+.cid-sgjY17nzvT .mbr-section-subtitle {
+  color: #353535;
+}
+.cid-sgjY17nzvT .user_text {
+  color: #353535;
 }
 .cid-sedYnyYZcc {
   padding-top: 5rem;
