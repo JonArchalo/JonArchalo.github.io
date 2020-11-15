@@ -1793,7 +1793,7 @@ a {
 }
 .cid-sgkCkqIWyV {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sgkCkqIWyV .top-line {
@@ -1838,6 +1838,17 @@ a {
   color: #353535;
 }
 .cid-sgkCkqIWyV .card-title {
+  color: #353535;
+}
+.cid-sgnRkC6SGn {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sgnRkC6SGn .mbr-section-subtitle {
+  color: #353535;
+}
+.cid-sgnRkC6SGn .mbr-text {
   color: #353535;
 }
 .cid-sedYnyYZcc {
