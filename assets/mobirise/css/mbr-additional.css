@@ -1791,6 +1791,55 @@ a {
 .cid-sgjY17nzvT .user_text {
   color: #353535;
 }
+.cid-sgkCkqIWyV {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sgkCkqIWyV .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-sgkCkqIWyV .mbr-section-title,
+.cid-sgkCkqIWyV .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-sgkCkqIWyV .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-sgkCkqIWyV .card-wrapper {
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.cid-sgkCkqIWyV .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-sgkCkqIWyV .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sgkCkqIWyV .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sgkCkqIWyV .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-sgkCkqIWyV .mbr-section-title {
+  color: #2299aa;
+}
+.cid-sgkCkqIWyV .mbr-text {
+  color: #353535;
+}
+.cid-sgkCkqIWyV .card-title {
+  color: #353535;
+}
 .cid-sedYnyYZcc {
   padding-top: 5rem;
   padding-bottom: 5rem;
