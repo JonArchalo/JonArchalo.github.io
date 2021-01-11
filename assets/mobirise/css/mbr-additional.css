@@ -1143,32 +1143,48 @@ a {
   text-align: left;
   color: #353535;
 }
-.cid-sfQe8Wlzz3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-slLE2r1go0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
 }
-.cid-sfQe8Wlzz3 .mbr-text {
-  color: #353535;
-}
-.cid-sfQe8Wlzz3 h4 {
+.cid-slLE2r1go0 .mbr-section-title,
+.cid-slLE2r1go0 .mbr-section-subtitle {
   text-align: center;
 }
-.cid-sfQe8Wlzz3 p {
-  text-align: center;
+.cid-slLE2r1go0 .cost {
+  word-break: normal;
 }
-.cid-sfQe8Wlzz3 .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-slLE2r1go0 .card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
 }
-.cid-sfQe8Wlzz3 .card-title,
-.cid-sfQe8Wlzz3 .card-img {
-  color: #353535;
+.cid-slLE2r1go0 .card-wrapper .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .cid-slLE2r1go0 .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-slLE2r1go0 .card-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-slLE2r1go0 P {
+  text-align: left;
+}
+.cid-slLE2r1go0 .mbr-section-title {
+  color: #2299aa;
 }
 .cid-seqH1EWOfq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-seqH1EWOfq .mbr-section-subtitle {
   color: #767676;
@@ -1222,6 +1238,28 @@ a {
 .cid-seqH1EWOfq .mbr-step-text {
   color: #353535;
   text-align: center;
+}
+.cid-sfQe8Wlzz3 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sfQe8Wlzz3 .mbr-text {
+  color: #353535;
+}
+.cid-sfQe8Wlzz3 h4 {
+  text-align: center;
+}
+.cid-sfQe8Wlzz3 p {
+  text-align: center;
+}
+.cid-sfQe8Wlzz3 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-sfQe8Wlzz3 .card-title,
+.cid-sfQe8Wlzz3 .card-img {
+  color: #353535;
 }
 .cid-seqJ403p2G {
   padding-top: 90px;
@@ -1448,6 +1486,20 @@ a {
 }
 .cid-sgjY17nzvT .user_text {
   color: #353535;
+}
+.cid-slLYXlT4h1 {
+  background-color: #efefef;
+}
+.cid-slLYXlT4h1 .mbr-section-title {
+  color: #2299aa;
+}
+.cid-slLYXlT4h1 .mbr-text,
+.cid-slLYXlT4h1 .mbr-section-btn {
+  color: #353535;
+  text-align: left;
+}
+.cid-slLYXlT4h1 .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-sgnT97mP2p {
   padding-top: 6rem;
